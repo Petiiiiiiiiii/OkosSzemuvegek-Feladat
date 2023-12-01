@@ -1,0 +1,64 @@
+Sorszám: 4 
+Kijelző mérete: 5,7 col 
+Processzor teljesítménye: 2,4 Ghz 
+Kamera felbontása: 18 MP 
+Szenzorok: accelerometer,giroszkóp,fényérzékelő 
+Tárhely mérete: 256 GB 
+Üzemidő: 24 óra
+
+Sorszám: 10 
+Kijelző mérete: 5,5 col 
+Processzor teljesítménye: 2 Ghz 
+Kamera felbontása: 12 MP 
+Szenzorok: accelerometer,pulzusmérő,fényérzékelő 
+Tárhely mérete: 64 GB 
+Üzemidő: 20 óra
+
+Sorszám: 11 
+Kijelző mérete: 6,2 col 
+Processzor teljesítménye: 2,5 Ghz 
+Kamera felbontása: 16 MP 
+Szenzorok: fényérzékelő,giroszkóp,hőmérséklet-érzékelő 
+Tárhely mérete: 256 GB 
+Üzemidő: 18 óra
+
+Sorszám: 12 
+Kijelző mérete: 5,8 col 
+Processzor teljesítménye: 2,2 Ghz 
+Kamera felbontása: 14 MP 
+Szenzorok: accelerometer,fényérzékelő,touchpad-érzékelő 
+Tárhely mérete: 1 TB 
+Üzemidő: 22 óra
+
+Sorszám: 14 
+Kijelző mérete: 5,7 col 
+Processzor teljesítménye: 2,4 Ghz 
+Kamera felbontása: 18 MP 
+Szenzorok: accelerometer,giroszkóp,fényérzékelő 
+Tárhely mérete: 256 GB 
+Üzemidő: 24 óra
+
+Sorszám: 19 
+Kijelző mérete: 6,3 col 
+Processzor teljesítménye: 2,4 Ghz 
+Kamera felbontása: 18 MP 
+Szenzorok: giroszkóp,fényérzékelő,szívritmus-érzékelő 
+Tárhely mérete: 256 GB 
+Üzemidő: 25 óra
+
+Sorszám: 24 
+Kijelző mérete: 5,7 col 
+Processzor teljesítménye: 2,4 Ghz 
+Kamera felbontása: 18 MP 
+Szenzorok: accelerometer,giroszkóp,fényérzékelő 
+Tárhely mérete: 128 GB 
+Üzemidő: 24 óra
+
+Sorszám: 29 
+Kijelző mérete: 6,3 col 
+Processzor teljesítménye: 2,4 Ghz 
+Kamera felbontása: 18 MP 
+Szenzorok: giroszkóp,fényérzékelő,hőmérséklet-érzékelő 
+Tárhely mérete: 1 TB 
+Üzemidő: 25 óra
+
